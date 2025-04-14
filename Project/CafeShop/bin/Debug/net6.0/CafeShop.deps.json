@@ -9,7 +9,9 @@
       "CafeShop/1.0.0": {
         "dependencies": {
           "ClosedXML": "0.104.2",
-          "Microsoft.Data.SqlClient": "6.0.1"
+          "Microsoft.Data.SqlClient": "6.0.0",
+          "System.Diagnostics.PerformanceCounter": "7.0.0",
+          "System.Security.Permissions": "9.0.4"
         },
         "runtime": {
           "CafeShop.dll": {}
@@ -39,7 +41,7 @@
           "Microsoft.Identity.Client": "4.61.3",
           "Microsoft.Identity.Client.Extensions.Msal": "4.61.3",
           "System.Memory": "4.5.5",
-          "System.Security.Cryptography.ProtectedData": "4.7.0",
+          "System.Security.Cryptography.ProtectedData": "7.0.0",
           "System.Text.Json": "6.0.10",
           "System.Threading.Tasks.Extensions": "4.5.4"
         },
@@ -122,11 +124,11 @@
           }
         }
       },
-      "Microsoft.Data.SqlClient/6.0.1": {
+      "Microsoft.Data.SqlClient/6.0.0": {
         "dependencies": {
           "Azure.Identity": "1.11.4",
           "Microsoft.Bcl.Cryptography": "8.0.0",
-          "Microsoft.Data.SqlClient.SNI": "6.0.2",
+          "Microsoft.Data.SqlClient.SNI": "6.0.1",
           "Microsoft.Extensions.Caching.Memory": "8.0.1",
           "Microsoft.IdentityModel.JsonWebTokens": "7.5.0",
           "Microsoft.IdentityModel.Protocols.OpenIdConnect": "7.5.0",
@@ -138,7 +140,7 @@
         "runtime": {
           "lib/net462/Microsoft.Data.SqlClient.dll": {
             "assemblyVersion": "6.0.0.0",
-            "fileVersion": "6.1.25023.1"
+            "fileVersion": "6.0.25014.4"
           }
         },
         "resources": {
@@ -183,7 +185,7 @@
           }
         }
       },
-      "Microsoft.Data.SqlClient.SNI/6.0.2": {},
+      "Microsoft.Data.SqlClient.SNI/6.0.1": {},
       "Microsoft.Extensions.Caching.Abstractions/8.0.0": {
         "dependencies": {
           "Microsoft.Extensions.Primitives": "8.0.0"
@@ -268,7 +270,7 @@
       "Microsoft.Identity.Client.Extensions.Msal/4.61.3": {
         "dependencies": {
           "Microsoft.Identity.Client": "4.61.3",
-          "System.Security.Cryptography.ProtectedData": "4.7.0"
+          "System.Security.Cryptography.ProtectedData": "7.0.0"
         },
         "runtime": {
           "lib/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll": {
@@ -370,6 +372,18 @@
           }
         }
       },
+      "System.Configuration.ConfigurationManager/7.0.0": {
+        "dependencies": {
+          "System.Security.Cryptography.ProtectedData": "7.0.0",
+          "System.Security.Permissions": "9.0.4"
+        },
+        "runtime": {
+          "lib/net6.0/System.Configuration.ConfigurationManager.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.22.51805"
+          }
+        }
+      },
       "System.Diagnostics.DiagnosticSource/8.0.1": {
         "dependencies": {
           "System.Runtime.CompilerServices.Unsafe": "6.0.0"
@@ -378,6 +392,25 @@
           "lib/net6.0/System.Diagnostics.DiagnosticSource.dll": {
             "assemblyVersion": "8.0.0.0",
             "fileVersion": "8.0.424.16909"
+          }
+        }
+      },
+      "System.Diagnostics.PerformanceCounter/7.0.0": {
+        "dependencies": {
+          "System.Configuration.ConfigurationManager": "7.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/System.Diagnostics.PerformanceCounter.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.22.51805"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/net6.0/System.Diagnostics.PerformanceCounter.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.22.51805"
           }
         }
       },
@@ -424,6 +457,7 @@
       },
       "System.Numerics.Vectors/4.5.0": {},
       "System.Runtime.CompilerServices.Unsafe/6.0.0": {},
+      "System.Security.AccessControl/6.0.0": {},
       "System.Security.Cryptography.Pkcs/8.0.1": {
         "dependencies": {
           "System.Formats.Asn1": "8.0.1"
@@ -443,19 +477,30 @@
           }
         }
       },
-      "System.Security.Cryptography.ProtectedData/4.7.0": {
+      "System.Security.Cryptography.ProtectedData/7.0.0": {
         "runtime": {
-          "lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll": {
-            "assemblyVersion": "4.0.5.0",
-            "fileVersion": "4.700.19.56404"
+          "lib/net6.0/System.Security.Cryptography.ProtectedData.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.22.51805"
           }
         },
         "runtimeTargets": {
-          "runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll": {
+          "runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll": {
             "rid": "win",
             "assetType": "runtime",
-            "assemblyVersion": "4.0.5.0",
-            "fileVersion": "4.700.19.56404"
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.22.51805"
+          }
+        }
+      },
+      "System.Security.Permissions/9.0.4": {
+        "dependencies": {
+          "System.Security.AccessControl": "6.0.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Security.Permissions.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.425.16305"
           }
         }
       },
@@ -548,19 +593,19 @@
       "path": "microsoft.bcl.cryptography/8.0.0",
       "hashPath": "microsoft.bcl.cryptography.8.0.0.nupkg.sha512"
     },
-    "Microsoft.Data.SqlClient/6.0.1": {
+    "Microsoft.Data.SqlClient/6.0.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-v7HxnYYXGGCJilxeQ4Pdks+popVuGajBpHmau0RU4ACIcbfs5qCNUnCogGpZ+CJ//8Qafhxq7vc5a8L9d6O8Eg==",
-      "path": "microsoft.data.sqlclient/6.0.1",
-      "hashPath": "microsoft.data.sqlclient.6.0.1.nupkg.sha512"
+      "sha512": "sha512-r/ttLk2Uh+PVFXpZCRptpPZWoUzEkP6LWaQB1b1SaS9oMdtizYbkNGtBqeqtSnJZLEJDOWyXQFKNpEbJd8avpg==",
+      "path": "microsoft.data.sqlclient/6.0.0",
+      "hashPath": "microsoft.data.sqlclient.6.0.0.nupkg.sha512"
     },
-    "Microsoft.Data.SqlClient.SNI/6.0.2": {
+    "Microsoft.Data.SqlClient.SNI/6.0.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-p3Pm/+7oPSn4At6vKrttRpUOVdrcer3oZln0XeYZ94DTTQirUVzQy5QmHjdMmbyIaTaYb6BYf+8N7ob5t1ctQA==",
-      "path": "microsoft.data.sqlclient.sni/6.0.2",
-      "hashPath": "microsoft.data.sqlclient.sni.6.0.2.nupkg.sha512"
+      "sha512": "sha512-q9FYLHj0G6HIOHypnd/SNCHfpCu4mn5VC7EiUx/m5Jpdd44Nnfg0pY0p2lru9bqMEx+P1QWXcjgDqFanJ2SLlQ==",
+      "path": "microsoft.data.sqlclient.sni/6.0.1",
+      "hashPath": "microsoft.data.sqlclient.sni.6.0.1.nupkg.sha512"
     },
     "Microsoft.Extensions.Caching.Abstractions/8.0.0": {
       "type": "package",
@@ -688,12 +733,26 @@
       "path": "system.clientmodel/1.0.0",
       "hashPath": "system.clientmodel.1.0.0.nupkg.sha512"
     },
+    "System.Configuration.ConfigurationManager/7.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-WvRUdlL1lB0dTRZSs5XcQOd5q9MYNk90GkbmRmiCvRHThWiojkpGqWdmEDJdXyHbxG/BhE5hmVbMfRLXW9FJVA==",
+      "path": "system.configuration.configurationmanager/7.0.0",
+      "hashPath": "system.configuration.configurationmanager.7.0.0.nupkg.sha512"
+    },
     "System.Diagnostics.DiagnosticSource/8.0.1": {
       "type": "package",
       "serviceable": true,
       "sha512": "sha512-vaoWjvkG1aenR2XdjaVivlCV9fADfgyhW5bZtXT23qaEea0lWiUljdQuze4E31vKM7ZWJaSUsbYIKE3rnzfZUg==",
       "path": "system.diagnostics.diagnosticsource/8.0.1",
       "hashPath": "system.diagnostics.diagnosticsource.8.0.1.nupkg.sha512"
+    },
+    "System.Diagnostics.PerformanceCounter/7.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-L+zIMEaXp1vA4wZk1KLMpk6tvU0xy94R0IfmhkmTWeC4KwShsmAfbg5I19LgjsCTYp6GVdXZ2aHluVWL0QqBdA==",
+      "path": "system.diagnostics.performancecounter/7.0.0",
+      "hashPath": "system.diagnostics.performancecounter.7.0.0.nupkg.sha512"
     },
     "System.Formats.Asn1/8.0.1": {
       "type": "package",
@@ -744,6 +803,13 @@
       "path": "system.runtime.compilerservices.unsafe/6.0.0",
       "hashPath": "system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
     },
+    "System.Security.AccessControl/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-AUADIc0LIEQe7MzC+I0cl0rAT8RrTAKFHl53yHjEUzNVIaUlhFY11vc2ebiVJzVBuOzun6F7FBA+8KAbGTTedQ==",
+      "path": "system.security.accesscontrol/6.0.0",
+      "hashPath": "system.security.accesscontrol.6.0.0.nupkg.sha512"
+    },
     "System.Security.Cryptography.Pkcs/8.0.1": {
       "type": "package",
       "serviceable": true,
@@ -751,12 +817,19 @@
       "path": "system.security.cryptography.pkcs/8.0.1",
       "hashPath": "system.security.cryptography.pkcs.8.0.1.nupkg.sha512"
     },
-    "System.Security.Cryptography.ProtectedData/4.7.0": {
+    "System.Security.Cryptography.ProtectedData/7.0.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-ehYW0m9ptxpGWvE4zgqongBVWpSDU/JCFD4K7krxkQwSz/sFQjEXCUqpvencjy6DYDbn7Ig09R8GFffu8TtneQ==",
-      "path": "system.security.cryptography.protecteddata/4.7.0",
-      "hashPath": "system.security.cryptography.protecteddata.4.7.0.nupkg.sha512"
+      "sha512": "sha512-xSPiLNlHT6wAHtugASbKAJwV5GVqQK351crnILAucUioFqqieDN79evO1rku1ckt/GfjIn+b17UaSskoY03JuA==",
+      "path": "system.security.cryptography.protecteddata/7.0.0",
+      "hashPath": "system.security.cryptography.protecteddata.7.0.0.nupkg.sha512"
+    },
+    "System.Security.Permissions/9.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-klHa+d7n6Nc7IjaJygnbqgTMoYOQCaCP/G38T0vjIDuls9uatPsyofrTc3OQBdcKk/rjGDSIzIFUX/OF4yxVlQ==",
+      "path": "system.security.permissions/9.0.4",
+      "hashPath": "system.security.permissions.9.0.4.nupkg.sha512"
     },
     "System.Text.Encodings.Web/6.0.0": {
       "type": "package",

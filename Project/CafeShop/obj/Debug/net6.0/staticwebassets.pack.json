@@ -5,6 +5,834 @@
       "PackagePath": "staticwebassets\\CafeShop.ynrg1nk075.bundle.scp.css"
     },
     {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\about.html",
+      "PackagePath": "staticwebassets\\Template\\about.html"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\blog-single.html",
+      "PackagePath": "staticwebassets\\Template\\blog-single.html"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\blog.html",
+      "PackagePath": "staticwebassets\\Template\\blog.html"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\cart.html",
+      "PackagePath": "staticwebassets\\Template\\cart.html"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\checkout.html",
+      "PackagePath": "staticwebassets\\Template\\checkout.html"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\contact.html",
+      "PackagePath": "staticwebassets\\Template\\contact.html"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\css\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\Template\\css\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\css\\animate.css",
+      "PackagePath": "staticwebassets\\Template\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\css\\aos.css",
+      "PackagePath": "staticwebassets\\Template\\css\\aos.css"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\css\\bootstrap-datepicker.css",
+      "PackagePath": "staticwebassets\\Template\\css\\bootstrap-datepicker.css"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Template\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\css\\bootstrap\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\Template\\css\\bootstrap\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\css\\bootstrap\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\Template\\css\\bootstrap\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\css\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\Template\\css\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\css\\css\\mixins\\_text-hide.css",
+      "PackagePath": "staticwebassets\\Template\\css\\css\\mixins\\_text-hide.css"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\css\\flaticon.css",
+      "PackagePath": "staticwebassets\\Template\\css\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\css\\icomoon.css",
+      "PackagePath": "staticwebassets\\Template\\css\\icomoon.css"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\css\\ionicons.min.css",
+      "PackagePath": "staticwebassets\\Template\\css\\ionicons.min.css"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\css\\jquery.timepicker.css",
+      "PackagePath": "staticwebassets\\Template\\css\\jquery.timepicker.css"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\Template\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Template\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\Template\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\css\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\Template\\css\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\css\\style.css",
+      "PackagePath": "staticwebassets\\Template\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\fonts\\flaticon\\backup.txt",
+      "PackagePath": "staticwebassets\\Template\\fonts\\flaticon\\backup.txt"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\fonts\\flaticon\\font\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\Template\\fonts\\flaticon\\font\\Flaticon.eot"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\fonts\\flaticon\\font\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\Template\\fonts\\flaticon\\font\\Flaticon.svg"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\fonts\\flaticon\\font\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\Template\\fonts\\flaticon\\font\\Flaticon.ttf"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\fonts\\flaticon\\font\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\Template\\fonts\\flaticon\\font\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\fonts\\flaticon\\font\\_flaticon.scss",
+      "PackagePath": "staticwebassets\\Template\\fonts\\flaticon\\font\\_flaticon.scss"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\fonts\\flaticon\\font\\flaticon.css",
+      "PackagePath": "staticwebassets\\Template\\fonts\\flaticon\\font\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\fonts\\flaticon\\font\\flaticon.html",
+      "PackagePath": "staticwebassets\\Template\\fonts\\flaticon\\font\\flaticon.html"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\fonts\\flaticon\\license\\license.pdf",
+      "PackagePath": "staticwebassets\\Template\\fonts\\flaticon\\license\\license.pdf"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\fonts\\icomoon\\icomoon.eot",
+      "PackagePath": "staticwebassets\\Template\\fonts\\icomoon\\icomoon.eot"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\fonts\\icomoon\\icomoon.svg",
+      "PackagePath": "staticwebassets\\Template\\fonts\\icomoon\\icomoon.svg"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\fonts\\icomoon\\icomoon.ttf",
+      "PackagePath": "staticwebassets\\Template\\fonts\\icomoon\\icomoon.ttf"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\fonts\\icomoon\\icomoon.woff",
+      "PackagePath": "staticwebassets\\Template\\fonts\\icomoon\\icomoon.woff"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\fonts\\ionicons\\css\\_ionicons.scss",
+      "PackagePath": "staticwebassets\\Template\\fonts\\ionicons\\css\\_ionicons.scss"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\fonts\\ionicons\\css\\ionicons.min.css",
+      "PackagePath": "staticwebassets\\Template\\fonts\\ionicons\\css\\ionicons.min.css"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\fonts\\ionicons\\fonts\\ionicons.eot",
+      "PackagePath": "staticwebassets\\Template\\fonts\\ionicons\\fonts\\ionicons.eot"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\fonts\\ionicons\\fonts\\ionicons.svg",
+      "PackagePath": "staticwebassets\\Template\\fonts\\ionicons\\fonts\\ionicons.svg"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\fonts\\ionicons\\fonts\\ionicons.ttf",
+      "PackagePath": "staticwebassets\\Template\\fonts\\ionicons\\fonts\\ionicons.ttf"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\fonts\\ionicons\\fonts\\ionicons.woff",
+      "PackagePath": "staticwebassets\\Template\\fonts\\ionicons\\fonts\\ionicons.woff"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\fonts\\ionicons\\fonts\\ionicons.woff2",
+      "PackagePath": "staticwebassets\\Template\\fonts\\ionicons\\fonts\\ionicons.woff2"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\fonts\\open-iconic\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\Template\\fonts\\open-iconic\\open-iconic.eot"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\fonts\\open-iconic\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\Template\\fonts\\open-iconic\\open-iconic.otf"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\fonts\\open-iconic\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\Template\\fonts\\open-iconic\\open-iconic.svg"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\fonts\\open-iconic\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\Template\\fonts\\open-iconic\\open-iconic.ttf"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\fonts\\open-iconic\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\Template\\fonts\\open-iconic\\open-iconic.woff"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\images\\about.jpg",
+      "PackagePath": "staticwebassets\\Template\\images\\about.jpg"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\images\\bg_1.jpg",
+      "PackagePath": "staticwebassets\\Template\\images\\bg_1.jpg"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\images\\bg_2.jpg",
+      "PackagePath": "staticwebassets\\Template\\images\\bg_2.jpg"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\images\\bg_3.jpg",
+      "PackagePath": "staticwebassets\\Template\\images\\bg_3.jpg"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\images\\bg_4.jpg",
+      "PackagePath": "staticwebassets\\Template\\images\\bg_4.jpg"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\images\\burger-1.jpg",
+      "PackagePath": "staticwebassets\\Template\\images\\burger-1.jpg"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\images\\burger-2.jpg",
+      "PackagePath": "staticwebassets\\Template\\images\\burger-2.jpg"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\images\\burger-3.jpg",
+      "PackagePath": "staticwebassets\\Template\\images\\burger-3.jpg"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\images\\dessert-1.jpg",
+      "PackagePath": "staticwebassets\\Template\\images\\dessert-1.jpg"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\images\\dessert-2.jpg",
+      "PackagePath": "staticwebassets\\Template\\images\\dessert-2.jpg"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\images\\dessert-3.jpg",
+      "PackagePath": "staticwebassets\\Template\\images\\dessert-3.jpg"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\images\\dessert-4.jpg",
+      "PackagePath": "staticwebassets\\Template\\images\\dessert-4.jpg"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\images\\dessert-5.jpg",
+      "PackagePath": "staticwebassets\\Template\\images\\dessert-5.jpg"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\images\\dessert-6.jpg",
+      "PackagePath": "staticwebassets\\Template\\images\\dessert-6.jpg"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\images\\dish-1.jpg",
+      "PackagePath": "staticwebassets\\Template\\images\\dish-1.jpg"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\images\\dish-11.jpg",
+      "PackagePath": "staticwebassets\\Template\\images\\dish-11.jpg"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\images\\dish-2.jpg",
+      "PackagePath": "staticwebassets\\Template\\images\\dish-2.jpg"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\images\\dish-3.jpg",
+      "PackagePath": "staticwebassets\\Template\\images\\dish-3.jpg"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\images\\dish-4.jpg",
+      "PackagePath": "staticwebassets\\Template\\images\\dish-4.jpg"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\images\\dish-5.jpg",
+      "PackagePath": "staticwebassets\\Template\\images\\dish-5.jpg"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\images\\dish-6.jpg",
+      "PackagePath": "staticwebassets\\Template\\images\\dish-6.jpg"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\images\\dish-7.jpg",
+      "PackagePath": "staticwebassets\\Template\\images\\dish-7.jpg"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\images\\dish-8.jpg",
+      "PackagePath": "staticwebassets\\Template\\images\\dish-8.jpg"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\images\\drink-1.jpg",
+      "PackagePath": "staticwebassets\\Template\\images\\drink-1.jpg"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\images\\drink-2.jpg",
+      "PackagePath": "staticwebassets\\Template\\images\\drink-2.jpg"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\images\\drink-3.jpg",
+      "PackagePath": "staticwebassets\\Template\\images\\drink-3.jpg"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\images\\drink-4.jpg",
+      "PackagePath": "staticwebassets\\Template\\images\\drink-4.jpg"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\images\\drink-5.jpg",
+      "PackagePath": "staticwebassets\\Template\\images\\drink-5.jpg"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\images\\drink-6.jpg",
+      "PackagePath": "staticwebassets\\Template\\images\\drink-6.jpg"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\images\\drink-7.jpg",
+      "PackagePath": "staticwebassets\\Template\\images\\drink-7.jpg"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\images\\drink-8.jpg",
+      "PackagePath": "staticwebassets\\Template\\images\\drink-8.jpg"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\images\\drink-9.jpg",
+      "PackagePath": "staticwebassets\\Template\\images\\drink-9.jpg"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\images\\gallery-1.jpg",
+      "PackagePath": "staticwebassets\\Template\\images\\gallery-1.jpg"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\images\\gallery-2.jpg",
+      "PackagePath": "staticwebassets\\Template\\images\\gallery-2.jpg"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\images\\gallery-3.jpg",
+      "PackagePath": "staticwebassets\\Template\\images\\gallery-3.jpg"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\images\\gallery-4.jpg",
+      "PackagePath": "staticwebassets\\Template\\images\\gallery-4.jpg"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\images\\image_1.jpg",
+      "PackagePath": "staticwebassets\\Template\\images\\image_1.jpg"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\images\\image_2.jpg",
+      "PackagePath": "staticwebassets\\Template\\images\\image_2.jpg"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\images\\image_3.jpg",
+      "PackagePath": "staticwebassets\\Template\\images\\image_3.jpg"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\images\\image_4.jpg",
+      "PackagePath": "staticwebassets\\Template\\images\\image_4.jpg"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\images\\image_5.jpg",
+      "PackagePath": "staticwebassets\\Template\\images\\image_5.jpg"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\images\\image_6.jpg",
+      "PackagePath": "staticwebassets\\Template\\images\\image_6.jpg"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\images\\loc.png",
+      "PackagePath": "staticwebassets\\Template\\images\\loc.png"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\images\\menu-1.jpg",
+      "PackagePath": "staticwebassets\\Template\\images\\menu-1.jpg"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\images\\menu-2.jpg",
+      "PackagePath": "staticwebassets\\Template\\images\\menu-2.jpg"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\images\\menu-3.jpg",
+      "PackagePath": "staticwebassets\\Template\\images\\menu-3.jpg"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\images\\menu-4.jpg",
+      "PackagePath": "staticwebassets\\Template\\images\\menu-4.jpg"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\images\\person_2.jpg",
+      "PackagePath": "staticwebassets\\Template\\images\\person_2.jpg"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\images\\person_3.jpg",
+      "PackagePath": "staticwebassets\\Template\\images\\person_3.jpg"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\images\\person_4.jpg",
+      "PackagePath": "staticwebassets\\Template\\images\\person_4.jpg"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\index.html",
+      "PackagePath": "staticwebassets\\Template\\index.html"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\js\\aos.js",
+      "PackagePath": "staticwebassets\\Template\\js\\aos.js"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\js\\bootstrap-datepicker.js",
+      "PackagePath": "staticwebassets\\Template\\js\\bootstrap-datepicker.js"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Template\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\js\\google-map.js",
+      "PackagePath": "staticwebassets\\Template\\js\\google-map.js"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\js\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\Template\\js\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\js\\jquery-migrate-3.0.1.min.js",
+      "PackagePath": "staticwebassets\\Template\\js\\jquery-migrate-3.0.1.min.js"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\js\\jquery.animateNumber.min.js",
+      "PackagePath": "staticwebassets\\Template\\js\\jquery.animateNumber.min.js"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\js\\jquery.easing.1.3.js",
+      "PackagePath": "staticwebassets\\Template\\js\\jquery.easing.1.3.js"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\Template\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\Template\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\js\\jquery.stellar.min.js",
+      "PackagePath": "staticwebassets\\Template\\js\\jquery.stellar.min.js"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\js\\jquery.timepicker.min.js",
+      "PackagePath": "staticwebassets\\Template\\js\\jquery.timepicker.min.js"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\js\\jquery.waypoints.min.js",
+      "PackagePath": "staticwebassets\\Template\\js\\jquery.waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\js\\main.js",
+      "PackagePath": "staticwebassets\\Template\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\Template\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\Template\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\js\\range.js",
+      "PackagePath": "staticwebassets\\Template\\js\\range.js"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\js\\scrollax.min.js",
+      "PackagePath": "staticwebassets\\Template\\js\\scrollax.min.js"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\menu.html",
+      "PackagePath": "staticwebassets\\Template\\menu.html"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\prepros-6.config",
+      "PackagePath": "staticwebassets\\Template\\prepros-6.config"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\product-single.html",
+      "PackagePath": "staticwebassets\\Template\\product-single.html"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\scss\\bootstrap\\_alert.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\scss\\bootstrap\\_badge.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\scss\\bootstrap\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\scss\\bootstrap\\_button-group.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\scss\\bootstrap\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\scss\\bootstrap\\_card.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\_card.scss"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\scss\\bootstrap\\_carousel.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\scss\\bootstrap\\_close.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\_close.scss"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\scss\\bootstrap\\_code.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\_code.scss"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\scss\\bootstrap\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\_custom-forms.scss"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\scss\\bootstrap\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\scss\\bootstrap\\_forms.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\scss\\bootstrap\\_functions.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\scss\\bootstrap\\_grid.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\scss\\bootstrap\\_images.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\_images.scss"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\scss\\bootstrap\\_input-group.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\scss\\bootstrap\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\_jumbotron.scss"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\scss\\bootstrap\\_list-group.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\scss\\bootstrap\\_media.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\_media.scss"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\scss\\bootstrap\\_mixins.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\scss\\bootstrap\\_modal.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\scss\\bootstrap\\_nav.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\scss\\bootstrap\\_navbar.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\scss\\bootstrap\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\scss\\bootstrap\\_popover.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\scss\\bootstrap\\_print.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\_print.scss"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\scss\\bootstrap\\_progress.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\scss\\bootstrap\\_reboot.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\scss\\bootstrap\\_root.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\_root.scss"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\scss\\bootstrap\\_tables.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\scss\\bootstrap\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\scss\\bootstrap\\_transitions.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\scss\\bootstrap\\_type.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\_type.scss"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\scss\\bootstrap\\_utilities.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\scss\\bootstrap\\_variables.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\scss\\bootstrap\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\scss\\bootstrap\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\scss\\bootstrap\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\scss\\bootstrap\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\scss\\bootstrap\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\scss\\bootstrap\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\scss\\bootstrap\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\scss\\bootstrap\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\scss\\bootstrap\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\scss\\bootstrap\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\scss\\bootstrap\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\scss\\bootstrap\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\scss\\bootstrap\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\mixins\\_float.scss"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\scss\\bootstrap\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\scss\\bootstrap\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\scss\\bootstrap\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\scss\\bootstrap\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\scss\\bootstrap\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\scss\\bootstrap\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\scss\\bootstrap\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\scss\\bootstrap\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\scss\\bootstrap\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\scss\\bootstrap\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\scss\\bootstrap\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\scss\\bootstrap\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\scss\\bootstrap\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\scss\\bootstrap\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\mixins\\_size.scss"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\scss\\bootstrap\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\scss\\bootstrap\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\scss\\bootstrap\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\scss\\bootstrap\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\scss\\bootstrap\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\scss\\bootstrap\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\scss\\bootstrap\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\utilities\\_align.scss"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\scss\\bootstrap\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\utilities\\_background.scss"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\scss\\bootstrap\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\scss\\bootstrap\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\scss\\bootstrap\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\utilities\\_display.scss"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\scss\\bootstrap\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\scss\\bootstrap\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\scss\\bootstrap\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\utilities\\_float.scss"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\scss\\bootstrap\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\utilities\\_position.scss"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\scss\\bootstrap\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\scss\\bootstrap\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\scss\\bootstrap\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\scss\\bootstrap\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\scss\\bootstrap\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\utilities\\_text.scss"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\scss\\bootstrap\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\bootstrap\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\Template\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\services.html",
+      "PackagePath": "staticwebassets\\Template\\services.html"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Template\\shop.html",
+      "PackagePath": "staticwebassets\\Template\\shop.html"
+    },
+    {
       "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

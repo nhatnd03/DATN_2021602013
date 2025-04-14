@@ -3,28 +3,12 @@
   "WorkspaceRootPath": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3963EA0C-E074-482F-80BE-16A7F83DE653}|CafeShop.csproj|c:\\hoc\\datn\\ninhduynhat_2021602013_datn\\project\\cafeshop\\config\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3963EA0C-E074-482F-80BE-16A7F83DE653}|CafeShop.csproj|solutionrelative:config\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3963EA0C-E074-482F-80BE-16A7F83DE653}|CafeShop.csproj|c:\\hoc\\datn\\ninhduynhat_2021602013_datn\\project\\cafeshop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3963EA0C-E074-482F-80BE-16A7F83DE653}|CafeShop.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3963EA0C-E074-482F-80BE-16A7F83DE653}|CafeShop.csproj|c:\\hoc\\datn\\ninhduynhat_2021602013_datn\\project\\cafeshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3963EA0C-E074-482F-80BE-16A7F83DE653}|CafeShop.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3963EA0C-E074-482F-80BE-16A7F83DE653}|CafeShop.csproj|c:\\hoc\\datn\\ninhduynhat_2021602013_datn\\project\\cafeshop\\config\\excel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3963EA0C-E074-482F-80BE-16A7F83DE653}|CafeShop.csproj|solutionrelative:config\\excel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3963EA0C-E074-482F-80BE-16A7F83DE653}|CafeShop.csproj|c:\\hoc\\datn\\ninhduynhat_2021602013_datn\\project\\cafeshop\\config\\sqlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3963EA0C-E074-482F-80BE-16A7F83DE653}|CafeShop.csproj|solutionrelative:config\\sqlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3963EA0C-E074-482F-80BE-16A7F83DE653}|CafeShop.csproj|c:\\hoc\\datn\\ninhduynhat_2021602013_datn\\project\\cafeshop\\config\\textutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3963EA0C-E074-482F-80BE-16A7F83DE653}|CafeShop.csproj|solutionrelative:config\\textutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3963EA0C-E074-482F-80BE-16A7F83DE653}|CafeShop.csproj|c:\\hoc\\datn\\ninhduynhat_2021602013_datn\\project\\cafeshop\\config\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3963EA0C-E074-482F-80BE-16A7F83DE653}|CafeShop.csproj|solutionrelative:config\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3963EA0C-E074-482F-80BE-16A7F83DE653}|CafeShop.csproj|c:\\hoc\\datn\\ninhduynhat_2021602013_datn\\project\\cafeshop\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3963EA0C-E074-482F-80BE-16A7F83DE653}|CafeShop.csproj|solutionrelative:controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,80 +30,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T02:08:19.805Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SQLHelper.cs",
-              "DocumentMoniker": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\Config\\SQLHelper.cs",
-              "RelativeDocumentMoniker": "Config\\SQLHelper.cs",
-              "ToolTip": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\Config\\SQLHelper.cs",
-              "RelativeToolTip": "Config\\SQLHelper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T02:05:44.997Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TextUtils.cs",
-              "DocumentMoniker": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\Config\\TextUtils.cs",
-              "RelativeDocumentMoniker": "Config\\TextUtils.cs",
-              "ToolTip": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\Config\\TextUtils.cs",
-              "RelativeToolTip": "Config\\TextUtils.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T02:05:42.487Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Mapper.cs",
-              "DocumentMoniker": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\Config\\Mapper.cs",
-              "RelativeDocumentMoniker": "Config\\Mapper.cs",
-              "ToolTip": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\Config\\Mapper.cs",
-              "RelativeToolTip": "Config\\Mapper.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwAkAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T02:04:14.945Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Excel.cs",
-              "DocumentMoniker": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\Config\\Excel.cs",
-              "RelativeDocumentMoniker": "Config\\Excel.cs",
-              "ToolTip": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\Config\\Excel.cs",
-              "RelativeToolTip": "Config\\Excel.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T02:03:40.336Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Config.cs",
-              "DocumentMoniker": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\Config\\Config.cs",
-              "RelativeDocumentMoniker": "Config\\Config.cs",
-              "ToolTip": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\Config\\Config.cs",
-              "RelativeToolTip": "Config\\Config.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T02:02:49.75Z",
+              "WhenOpened": "2025-04-14T16:32:43.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShopController.cs",
+              "DocumentMoniker": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\Controllers\\ShopController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ShopController.cs",
+              "ToolTip": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\Controllers\\ShopController.cs",
+              "RelativeToolTip": "Controllers\\ShopController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAADQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T16:29:35.043Z",
               "EditorCaption": ""
             }
           ]
