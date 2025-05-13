@@ -1,0 +1,126 @@
+﻿/* Ensure container padding doesn't squish content on small screens */
+.container {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Product image styling */
+.img-thumbnails {
+    max-width: 100px;
+    height: auto;
+    object-fit: cover;
+}
+
+@media (max-width: 576px) {
+    .img-thumbnails {
+        max-width: 80px;
+    }
+}
+
+/* Card layout for cart items */
+.card {
+    margin-bottom: 1.5rem;
+}
+
+.card-body {
+    padding: 1.25rem;
+}
+
+@media (max-width: 768px) {
+    .card-body {
+        padding: 1rem;
+    }
+}
+
+/* Topping list overflow handling */
+.topping_price_0, /* Adjust for dynamic index if needed */
+.topping_price_1,
+.topping_price_2,
+.topping_price_3 {
+    max-height: 100px;
+    overflow-y: auto;
+}
+
+/* Quantity controls */
+.product-number {
+    width: 4.5rem !important;
+    font-size: 0.9rem;
+    padding: 0.25rem !important;
+}
+
+.btn-sm {
+    padding: 0.25rem 0.5rem;
+    font-size: 0.8rem;
+}
+
+@media (max-width: 576px) {
+    .product-number {
+        width: 3.5rem !important;
+    }
+
+    .btn-sm {
+        padding: 0.2rem 0.4rem;
+    }
+}
+
+/* Form inputs */
+.form-control {
+    font-size: 0.95rem;
+    padding: 0.5rem 0.75rem;
+}
+
+@media (max-width: 576px) {
+    .form-control {
+        font-size: 0.9rem;
+    }
+}
+
+/* Order summary table */
+.table-sm {
+    font-size: 0.9rem;
+}
+
+@media (max-width: 576px) {
+    .table-sm {
+        font-size: 0.85rem;
+    }
+}
+
+/* Buttons */
+.btn-success {
+    padding: 0.5rem 1.5rem;
+    font-size: 1rem;
+}
+
+@media (max-width: 576px) {
+    .btn-success {
+        padding: 0.4rem 1rem;
+        font-size: 0.9rem;
+    }
+}
+
+.btn-link {
+    font-size: 1.1rem;
+}
+
+@media (max-width: 576px) {
+    .btn-link {
+        font-size: 1rem;
+    }
+}
+
+/* Ensure delete icon is touch-friendly */
+.list-inline-item a {
+    padding: 0.5rem !important;
+}
+
+/* Adjust star ratings */
+.bi-star-fill {
+    font-size: 0.9rem;
+}
+
+@media (max-width: 576px) {
+    .bi-star-fill {
+        font-size: 0.8rem;
+    }
+}

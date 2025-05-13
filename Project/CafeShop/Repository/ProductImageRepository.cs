@@ -1,4 +1,6 @@
-﻿using CafeShop.Models;
+﻿using CafeShop.Config;
+using CafeShop.Models;
+using ManagementCourse.Reposiory;
 
 namespace CafeShop.Repository
 {

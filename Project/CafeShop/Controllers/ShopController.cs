@@ -1,11 +1,8 @@
-﻿using CafeShop.Models;
+﻿using CafeShop.Config;
+using CafeShop.Models;
 using CafeShop.Models.DTOs;
-using CafeShop.Config;
-using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc.Routing;
-using System.Diagnostics.CodeAnalysis;
 using CafeShop.Repository;
-using API.Config;
+using Microsoft.AspNetCore.Mvc;
 
 namespace CafeShop.Controllers
 {
@@ -21,23 +18,21 @@ namespace CafeShop.Controllers
         {
             Account acc = _accRepo.GetByID(HttpContext.Session.GetInt32("AccountId") ?? 0) ?? new Account();
             ViewBag.Account = acc;
-            return View("Index1");
+            return View();
         }
         public JsonResult GetAllProductType()
         {
             List<ProductType> Coffe = SQLHelper<ProductType>.SqlToList("SELECT * FROM ProductType WHERE GroupTypeID = 1");
-            List<ProductType> MilkTea = SQLHelper<ProductType>.SqlToList("SELECT * FROM ProductType WHERE ID = 2");
-            List<ProductType> greenTea = SQLHelper<ProductType>.SqlToList("SELECT * FROM ProductType WHERE ID = 3");
-            List<ProductType> Prosty = SQLHelper<ProductType>.SqlToList("SELECT * FROM ProductType WHERE ID = 6");
-            List<ProductType> Snack = SQLHelper<ProductType>.SqlToList("SELECT * FROM ProductType WHERE ID = 8");
+            List<ProductType> Tea = SQLHelper<ProductType>.SqlToList("SELECT * FROM ProductType WHERE GroupTypeID = 2");
+            List<ProductType> Different = SQLHelper<ProductType>.SqlToList("SELECT * FROM ProductType WHERE GroupTypeID = 3");
 
-            return Json(new { Coffe, MilkTea, greenTea, Prosty, Snack });
+            return Json(new { Coffe, Tea, Different });
         }
         public JsonResult GetALlProduct(int typeId = 0, string request = "", int pageNumber = 1)
         {
             List<ProductDto> data = SQLHelper<ProductDto>.ProcedureToList("spGetAllProductClient", new string[] { "@typeId", "@Request", "@PageNumber" }, new object[] { typeId, request, pageNumber });
             PaginationDto total = SQLHelper<PaginationDto>.ProcedureToModel("spGetAllTotalProductClient", new string[] { "@typeId", "@Request" }, new object[] { typeId, request });
-            return Json(new { status = 1, message = "", result = new { data , total } });
+            return Json(new { status = 1, message = "", result = new { data, total } });
 
         }
 
@@ -68,4 +63,6 @@ namespace CafeShop.Controllers
             return View();
         }
     }
+
 }
+

@@ -1,0 +1,70 @@
+﻿@{
+    ViewData["Title"] = "CheckOut";
+    var AccountId = ViewBag.Account.Id;
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<link href="~/css/client/Cart.css" rel="stylesheet" />
+<input type="number" value="@AccountId" id="accountId" hidden />
+<div class="container py-4">
+    <div class="row g-4">
+        <div class="col-xl-8 col-lg-8 col-md-12 col-sm-12 col-12">
+            <div id="cart_item"></div>
+            <div class="row my-4">
+                <div class="col-12">
+                    <a asp-controller="Shop" asp-action="Index" class="btn btn-link text-muted py-2 fs-5">
+                        <i class="bi bi-arrow-left-short me-1"></i> Tiếp tục xem sản phẩm
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12">
+            <div class="mt-4 mt-lg-0">
+                <div class="card border shadow-none">
+                    <div class="card-header bg-transparent border-bottom py-3 px-4">
+                        <div class="mb-3">
+                            <label for="customer_name" class="form-label form-label-sm mb-1">Tên<span class="text-danger">*</span></label>
+                            <input type="text" class="form-control" id="customer_name" autocomplete="off">
+                        </div>
+                        <div class="mb-3">
+                            <label for="customer_phone" class="form-label form-label-sm mb-1">Điện thoại<span class="text-danger">*</span></label>
+                            <input type="text" class="form-control" id="customer_phone" autocomplete="off">
+                        </div>
+                        <div class="mb-3">
+                            <label for="customer_address" class="form-label form-label-sm mb-1">Địa chỉ<span class="text-danger">*</span></label>
+                            <input type="text" class="form-control" id="customer_address" autocomplete="off">
+                        </div>
+                    </div>
+                    <div class="card-body p-4">
+                        <h5 class="font-size-16 mb-3">Đơn hàng</h5>
+                        <div class="table-responsive">
+                            <table class="table table-sm mb-0">
+                                <tbody>
+                                    <tr>
+                                        <td>Tổng hàng:</td>
+                                        <td class="text-end" id="sub_total">0 VNĐ</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Phí vận chuyển:</td>
+                                        <td class="text-end" id="shipping_charge">25,000 VNĐ</td>
+                                    </tr>
+                                    <tr class="bg-light">
+                                        <th>Tổng:</th>
+                                        <td class="text-end">
+                                            <span class="fw-bold" id="total_money">0 VNĐ</span>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+                <div class="text-center mt-4">
+                    <button class="btn btn-success btn-lg w-100 w-md-auto" onclick="CreateOrder()">
+                        <i class="mdi mdi-cart-outline me-1"></i> Đặt hàng
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script src="~/js/client/cart.js"></script>

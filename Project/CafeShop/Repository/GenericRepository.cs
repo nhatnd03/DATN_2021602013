@@ -1,70 +1,114 @@
-using API.Config;
-using CafeShop.Config;
+﻿using CafeShop.Models;
 using ManagementCourse.IReposiory;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
-using System.Data;
 using System.Linq;
-using System.Reflection;
 using System.Threading.Tasks;
 
-namespace CafeShop.Repository
+namespace ManagementCourse.Reposiory
 {
-    public class GenericRepository<T> : IGenericRepository<T> where T : class, new()
+    public class GenericRepository<T> : IGenericRepository<T> where T : class
     {
-        public int Confirm(T[] item)
+        protected ApplicationDbContext db { get; set; }
+        protected DbSet<T> table = null;
+
+        public GenericRepository()
         {
-            throw new NotImplementedException();
+            db = new ApplicationDbContext();
+            table = db.Set<T>();
         }
 
-        public int Create(T item)
+        public GenericRepository(ApplicationDbContext db)
         {
-            throw new NotImplementedException();
-        }
-
-        public Task<int> CreateAsync(T item)
-        {
-            throw new NotImplementedException();
-        }
-
-        public int CreateRange(IEnumerable<T> items)
-        {
-            throw new NotImplementedException();
-        }
-
-        public int Delete(int id)
-        {
-            return SQLHelper<T>.DeleteModelByID(id);
-        }
-
-        public IEnumerable<T> Find(Func<T, bool> predicate)
-        {
-            throw new NotImplementedException();
+            this.db = db;
+            table = db.Set<T>();
         }
 
         public IEnumerable<T> GetAll()
         {
-            throw new NotImplementedException();
+            return table.ToList();
         }
+
+        public List<T> GetAllList()
+        {
+            return table.ToList();
+        }
+
 
         public T GetByID(int id)
         {
-            return SQLHelper<T>.FindByID(id);
+            return table.Find(id);
         }
 
-        public int Remove(T item)
+
+        public int Create(T item)
         {
-            throw new NotImplementedException();
+            table.Add(item);
+            return db.SaveChanges();
+        }
+        public async Task<int> CreateAsync(T item)
+        {
+            table.Add(item);
+            return await db.SaveChangesAsync();
+        }
+        public int CreateRange(IEnumerable<T> items)
+        {
+            table.AddRange(items);
+            return db.SaveChanges();
+        }
+        public int Update(T item)
+        {
+            table.Attach(item);
+            db.Entry(item).State = EntityState.Modified;
+            return db.SaveChanges();
+        }
+
+        public int Delete(int id)
+        {
+            table.Remove(table.Find(id));
+            return db.SaveChanges();
+        }
+
+        public int Delete(List<T> item)
+        {
+            try
+            {
+                table.RemoveRange(item);
+                return 1;
+            }
+            catch
+            {
+                return 0;
+            }
+
+        }
+
+        public int Confirm(T[] item)
+        {
+            for (int i = 0; i < item.Length; i++)
+            {
+                table.Attach(item[i]);
+                db.Entry(item[i]).State = EntityState.Modified;
+            }
+            return db.SaveChanges();
         }
 
         public int RemoveRange(IEnumerable<T> items)
         {
-            throw new NotImplementedException();
+            table.RemoveRange(items);
+            return db.SaveChanges();
         }
 
-        public int Update(T item)
+        public int Remove(T item)
         {
-            return SQLHelper<T>.Update(item).ID;
+            table.Remove(item);
+            return db.SaveChanges();
+        }
+
+        public IEnumerable<T> Find(Func<T, bool> predicate)
+        {
+            return table.Where(predicate);
         }
     }
 }

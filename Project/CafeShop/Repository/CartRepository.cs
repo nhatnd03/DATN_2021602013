@@ -1,6 +1,5 @@
 ﻿using CafeShop.Models;
-using CafeShop.Repository;
-
+using ManagementCourse.Reposiory;
 
 namespace CafeShop.Reposiory
 {

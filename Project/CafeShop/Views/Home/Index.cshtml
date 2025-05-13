@@ -1,0 +1,169 @@
+﻿@using CafeShop.Models.DTOs
+@{
+    ViewData["Title"] = "Home Page";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!-- home section -->
+<section id="home" style="background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url(../Images/bc3.png);">
+    <div class="content">
+        <h3>Bắt đầu một ngày mới tràn đầy năng lượng với <br>Coffe Shop</h3>
+        <p>
+            Chào mừng bạn đến với Coffe Shop, nơi mỗi hạt cà phê là một câu chuyện đầy cảm hứng.
+            <br/>
+            Tại đây, chúng tôi tự hào mang đến cho bạn những ly cà phê đậm đà, nguyên chất từ những vùng đất trù phú bậc nhất Việt Nam.
+        </p>
+        <button id="btn">Mua ngay</button>
+    </div>
+</section>
+
+<!-- about section -->
+<div class="about" id="about">
+    <div class="container">
+        <div class="heading">Về chúng tôi </div>
+        <div class="row">
+            <div class="col-md-6">
+                <div class="card">
+                    <img src="~/Images/about.png" alt="">
+                </div>
+            </div>
+            <div class="col-md-6">
+                <h3>Điều gì khiến chúng tôi đặc biệt?</h3>
+                <p>
+                    Đội ngũ barista giàu kinh nghiệm và đam mê của chúng tôi luôn sáng tạo, không ngừng học hỏi để mang đến cho bạn những trải nghiệm cà phê độc đáo và hoàn hảo nhất.
+                    <br><br>Chúng tôi sử dụng những hạt cà phê tươi ngon nhất, kết hợp cùng kỹ thuật pha chế tinh tế để tạo ra những ly cà phê đậm đà, mang hương vị đặc trưng.
+                    <br><br>Với không gian hiện đại và ấm cúng, nơi bạn có thể thư giãn giữa những chậu cây xanh mát và thưởng thức ly cà phê thơm ngon.
+                    Hãy đến để trải nghiệm sự hòa quyện giữa thiên nhiên và hương vị tuyệt hảo của chúng tôi.
+                </p>
+                <button id="about-btn">Tìm hiểu thêm.</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- top cards section -->
+<section class="top-cards">
+    <div class="heading2">Danh mục</div>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4 py-3 py-md-0">
+                <div class="card">
+                    <img src="~/Images/c1.png" alt="">
+                </div>
+            </div>
+            <div class="col-md-4 py-3 py-md-0">
+                <div class="card">
+                    <img src="~/Images/c2.png" alt="">
+                </div>
+            </div>
+            <div class="col-md-4 py-3 py-md-0">
+                <div class="card">
+                    <img src="~/Images/c3.png" alt="">
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- menu section -->
+<section class="menu" id="menu">
+    <div class="container">
+        <div class="heading3">Sản phẩm mới</div>
+    </div>
+    <div class="container" id="container2">
+        <div class="row">
+            @foreach (var item in ViewBag.TopNewTop)
+            {
+                <div class="col-md-3 py-3 py-md-0">
+                    <div class="card">
+                        <img class="card-img-top" src="@Url.Content(item.ImageUrl)" alt="">
+                        <div class="card-body">
+                            <div class="star text-center">
+                                <i class="fa-regular fa-star"></i>
+                                <i class="fa-regular fa-star"></i>
+                                <i class="fa-regular fa-star"></i>
+                                <i class="fa-regular fa-star"></i>
+                                <i class="fa-regular fa-star"></i>
+                            </div>
+                            <div class="card-title"><a class="text-decoration-none" asp-controller="Shop" asp-action="IndexDetails" asp-route-prId="@item.Id"><h3>@item.ProductName</h3></a></div>
+                            <p>@item.Price.ToString("N0") VNĐ <span><i class="fa-solid fa-cart-shopping"></i></span></p>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+
+        <div class="row" style="margin-top: 50px;">
+            @foreach (var item in ViewBag.TopNewBottom)
+            {
+                <div class="col-md-3 py-3 py-md-0">
+                    <div class="card">
+                        <img class="card-img-top" src="@Url.Content(item.ImageUrl)" alt="">
+                        <div class="card-body">
+                            <div class="star text-center">
+                                <i class="fa-regular fa-star"></i>
+                                <i class="fa-regular fa-star"></i>
+                                <i class="fa-regular fa-star"></i>
+                                <i class="fa-regular fa-star"></i>
+                                <i class="fa-regular fa-star"></i>
+                            </div>
+                            <div class="card-title"><a class="text-decoration-none" asp-controller="Shop" asp-action="IndexDetails" asp-route-prId="@item.Id"><h3>@item.ProductName</h3></a></div>
+                            <p>@item.Price.ToString("N0") VNĐ <span><i class="fa-solid fa-cart-shopping"></i></span></p>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</section>
+
+<!-- product section -->
+<section id="product" class="product">
+    <div class="container">
+        <div class="heading4">Sản phẩm Hot</div>
+    </div>
+    <div class="container" id="container3">
+        <div class="row">
+            @foreach (ProductDto item in ViewBag.TopSeller)
+            {
+                <div class="col-md-3 py-3 py-md-0">
+                    <div class="card">
+                        <a asp-controller="Shop" asp-action="IndexDetails" asp-route-prId="@item.Id"><img class="card-img-top" src="@Url.Content(item.ImageUrl)" alt=""></a>
+                        <div class="card-body">
+                            <div class="card-title"><a class="text-decoration-none" asp-controller="Shop" asp-action="IndexDetails" asp-route-prId="@item.Id"><h3>@item.ProductName</h3></a></div>
+                            <p>@item.Price.ToString("N0") VNĐ <span><i class="fa-solid fa-cart-shopping"></i></span></p>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</section>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        $('.imgprd').each(function() {
+            var maxWidth = 300; // Max width for the image
+            var maxHeight = 300;    // Max height for the image
+            var ratio = 0;  // Used for aspect ratio
+            var width = $(this).prop('naturalWidth');  // Get original width of the image
+            var height = $(this).prop('naturalHeight');  // Get original height of the image
+
+            // Check if the current width is larger than the max
+            if (width > maxWidth) {
+                ratio = maxWidth / width;   // Get ratio for scaling the image
+                $(this).css("width", maxWidth); // Set new width
+                $(this).css("height", height * ratio);  // Scale height based on ratio
+            }
+
+            // Check if current height is larger than max
+            if (height > maxHeight) {
+                ratio = maxHeight / height; // Get ratio for scaling the image
+                $(this).css("height", maxHeight);   // Set new height
+                $(this).css("width", width * ratio);    // Scale width based on ratio
+            }
+        });
+    });
+
+
+</script>

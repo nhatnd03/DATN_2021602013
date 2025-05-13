@@ -1,0 +1,197 @@
+﻿/* General Styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Merriweather', serif;
+}
+
+.all-content {
+    background: #f7f5f2;
+}
+
+html::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+html::-webkit-scrollbar-thumb {
+    background: #b2744c;
+    border-radius: 10px;
+}
+
+html::-webkit-scrollbar {
+    width: 10px;
+}
+
+/* navbar */
+#navbar {
+    background-color: #b2744c;
+    font-family: 'Roboto', sans-serif;
+}
+
+.card img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+}
+
+.imgprd {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+}
+
+#logo img {
+    border-radius: 10px;
+    width: 160px;
+    margin-left: 40px;
+}
+
+.navbar-nav {
+    margin-left: 50px;
+}
+
+.nav-item .nav-link {
+    color: black;
+    margin-left: 10px;
+    font-weight: bold;
+    transition: 0.5s;
+}
+
+    .nav-item .nav-link:hover {
+        background: #f7f5f2;
+        border-radius: 5px;
+        color: black;
+    }
+
+#navbar form button {
+    background: black;
+    color: white;
+    border: 1px solid white;
+}
+
+/* Section Styles */
+#home {
+    width: 100%;
+    height: 90vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 80%;
+}
+
+.content {
+    padding-top: 210px;
+    margin-left: 56px;
+}
+
+    .content h3 {
+        font-size: 50px;
+        color: white;
+    }
+
+#btn {
+    width: 150px;
+    height: 36px;
+    background: white;
+    border-radius: 5px;
+    font-weight: bold;
+    border: none;
+    transition: 0.5s ease;
+    cursor: pointer;
+}
+
+    #btn:hover {
+        background: #b2744c;
+        color: white;
+    }
+
+/* Navbar on mobile */
+.navbar-toggler {
+    border-color: #fff;
+}
+
+.navbar-nav {
+    margin-left: 0;
+}
+
+/* Responsive Styles */
+@media screen and (max-width: 768px) {
+    /* Adjust Navbar */
+    .navbar-nav {
+        margin-left: 0;
+    }
+
+    .content h3 {
+        font-size: 30px;
+    }
+
+    .content p {
+        font-size: 14px;
+    }
+
+    #home {
+        height: 60vh;
+    }
+
+    /* Adjust images */
+    .top-cards .card img, .menu .card img, .product .card img {
+        height: 250px;
+        width: 100%;
+    }
+
+    .top-cards .col-md-4, .menu .col-md-3, .product .col-md-3 {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .imgprd {
+        height: 250px;
+    }
+
+    /* Giỏ hàng icon */
+    .nav-icon {
+        font-size: 1.5rem;
+        padding: 10px;
+    }
+
+    /* Dropdown menu */
+    .navbar-collapse {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .dropdown-menu {
+        position: relative;
+        top: 0;
+        left: 0;
+    }
+}
+
+/* Further Mobile Adjustments */
+@media screen and (max-width: 480px) {
+    /* Adjust content font-size */
+    .content h3 {
+        font-size: 24px;
+    }
+
+    .content p {
+        font-size: 12px;
+    }
+
+    .heading2, .heading3, .heading4 {
+        font-size: 24px;
+    }
+
+    .card-body h3 {
+        font-size: 16px;
+    }
+
+    .imgprd {
+        height: 120px;
+    }
+
+    /* Giảm kích thước icon giỏ hàng */
+    .nav-icon {
+        font-size: 1.3rem;
+    }
+}

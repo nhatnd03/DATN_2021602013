@@ -115,9 +115,9 @@ namespace CafeShop.Config
                 SqlDataReader reader = mySqlCommand.ExecuteReader();
                 lst = reader.MapToList<T>();
             }
-            catch 
+            catch (SqlException e)
             {
-                throw;
+                throw new Exception(e.ToString());
             }
             finally
             {
@@ -150,9 +150,9 @@ namespace CafeShop.Config
                 conn.Close();
                 return dt;
             }
-            catch
+            catch (Exception ex)
             {
-                throw;
+                throw new Exception(ex.Message.ToString());
             }
             finally
             {

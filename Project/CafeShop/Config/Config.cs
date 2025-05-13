@@ -2,11 +2,21 @@
 {
     public static class Config
     {
-        private const string strUrlServer = @"https://localhost:7116/";
+        private const string strUrlServer = @"https://localhost:7080/";
         public static string Connection()
         {
-            string conn = @"Data Source=MSI;Initial Catalog=CafeShop;User ID=sa;Password=1;Trust Server Certificate=True";
+            string conn = @"Data Source=MSI;Initial Catalog=CafeShop;User ID=sa;Password=1;";
             return conn;
+        }
+        public static string getAPIkey()
+        {
+            string apikey = "sk-bcba55d7981d4466a646d08a49eb012b";
+            return apikey;
+        }
+        public static string getAPIUrl()
+        {
+            string apiUrl = "https://api.deepseek.com/v1/chat/completions";
+            return apiUrl;
         }
 
         public static string ImageUrl()

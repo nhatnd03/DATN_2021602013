@@ -1,8 +1,9 @@
 ﻿using CafeShop.Models;
+using ManagementCourse.Reposiory;
 
 namespace CafeShop.Repository
 {
-    public class OrderDetailsToppingRepository : GenericRepository<OrderDetailTopping>
+    public class OrderDetailsToppingRepository : GenericRepository<OrderDetailsTopping>
     {
     }
 }
