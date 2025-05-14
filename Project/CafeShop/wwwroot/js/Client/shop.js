@@ -72,7 +72,7 @@ function GetAll() {
             var html = '';
             $.each(data.result.data, function (index, item) {
                 html += `<div class="col-md-3" style="font-size: 10px; text-align: center;">
-                        <div class="card mb-4 product-wap rounded-0">
+                        <div class="card mb-4 product-wap rounded">
                             <div class="card rounded-0">
                                 <img class="card-img rounded-0 img-fluid" src="${item.imageUrl}" />
                                 <div class="card-img-overlay rounded-0 product-overlay d-flex align-items-center justify-content-center" >

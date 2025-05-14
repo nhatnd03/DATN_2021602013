@@ -16218,6 +16218,42 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\logo.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\meo.gif'))">
+      <SourceType>Package</SourceType>
+      <SourceId>CafeShop</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/CafeShop</BasePath>
+      <RelativePath>assets/meo.gif</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>jcuwymw2ip</Fingerprint>
+      <Integrity>XaSiTbZI+8XdLBmLQoEoG6QW2cA8N7ckg/KFc7hjHbM=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\meo.gif'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\meo1.gif'))">
+      <SourceType>Package</SourceType>
+      <SourceId>CafeShop</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/CafeShop</BasePath>
+      <RelativePath>assets/meo1.gif</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>acazq7mkvt</Fingerprint>
+      <Integrity>GlXZePLeJMFd3GH4e0EUO5/5ICMH1fx+vn3RtAPUcac=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\meo1.gif'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\Vg1.gif'))">
       <SourceType>Package</SourceType>
       <SourceId>CafeShop</SourceId>
@@ -16554,8 +16590,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>dcf3tx1t8s</Fingerprint>
-      <Integrity>k96Cl2DMVcu1cgOqM9CF/iju5IrxU+ANE7E3XMsA4Aw=</Integrity>
+      <Fingerprint>altkyo2tx8</Fingerprint>
+      <Integrity>zvQxPiq2jehS6JpAeCFCwsXQslWJlm1+pMSKMhxeS9s=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\style.css'))</OriginalItemSpec>
@@ -17352,6 +17388,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Product\Prosty\P079\kem-sorbet.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Product\SinhTo\P061\smoothie-dua-hau-chunho-ncare-2-hong-sam-chinh-hang.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>CafeShop</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/CafeShop</BasePath>
+      <RelativePath>Images/Product/SinhTo/P061/smoothie-dua-hau-chunho-ncare-2-hong-sam-chinh-hang.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>oz1ahuzujp</Fingerprint>
+      <Integrity>lMHrIs6QhtMPJsnseXZf3p+ld083Q7mylwJCLgGLuGU=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Product\SinhTo\P061\smoothie-dua-hau-chunho-ncare-2-hong-sam-chinh-hang.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Product\SinhTo\P062\sinhtodau.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>CafeShop</SourceId>
@@ -18018,6 +18072,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Product\TraTraiCay\TeaTraiCay06\tra-sen-nong_025153_e616dbace8e24d2f9ad2728cd214072f.webp'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Product\TraXanh\P060\smoothie-cam.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>CafeShop</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/CafeShop</BasePath>
+      <RelativePath>Images/Product/TraXanh/P060/smoothie-cam.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>ak2aqxzoin</Fingerprint>
+      <Integrity>etnzYK5UuYAeRIIYcWlv3nbKX0vbqu0pyWL9g42R9hc=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Product\TraXanh\P060\smoothie-cam.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Product\TraXanh\TeaGreen01\1732197222_traxanhnong_bc472fd2a2be425299a4e14349773f0d.webp'))">
       <SourceType>Package</SourceType>
       <SourceId>CafeShop</SourceId>
@@ -18390,8 +18462,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>2imsgyq3z4</Fingerprint>
-      <Integrity>FmdSw3Uo2H64/fQQ49urR9rVT9U2kCAYrZirIvbOTJs=</Integrity>
+      <Fingerprint>29ypsxhmcn</Fingerprint>
+      <Integrity>Wjbv50Of0AHbGG4kfCIDQrRGu4dYU7h4A0s2CI/JUak=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\Client\cart.js'))</OriginalItemSpec>

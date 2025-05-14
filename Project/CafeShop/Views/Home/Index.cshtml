@@ -86,7 +86,7 @@
                                 <i class="fa-regular fa-star"></i>
                             </div>
                             <div class="card-title"><a class="text-decoration-none" asp-controller="Shop" asp-action="IndexDetails" asp-route-prId="@item.Id"><h3>@item.ProductName</h3></a></div>
-                            <p>@item.Price.ToString("N0") VNĐ <span><i class="fa-solid fa-cart-shopping"></i></span></p>
+                            <p>@item.Price.ToString("N0") VNĐ <span><a asp-controller="Shop" asp-action="IndexDetails" asp-route-prId="@item.Id" class="text-decoration-none"><i class="fa-solid fa-cart-shopping" style="color:#b2744c"></i></a></span></p>
                         </div>
                     </div>
                 </div>
@@ -108,7 +108,7 @@
                                 <i class="fa-regular fa-star"></i>
                             </div>
                             <div class="card-title"><a class="text-decoration-none" asp-controller="Shop" asp-action="IndexDetails" asp-route-prId="@item.Id"><h3>@item.ProductName</h3></a></div>
-                            <p>@item.Price.ToString("N0") VNĐ <span><i class="fa-solid fa-cart-shopping"></i></span></p>
+                            <p>@item.Price.ToString("N0") VNĐ <span><a asp-controller="Shop" asp-action="IndexDetails" asp-route-prId="@item.Id" class="text-decoration-none"><i class="fa-solid fa-cart-shopping"></i></a></span></p>
                         </div>
                     </div>
                 </div>
@@ -131,7 +131,7 @@
                         <a asp-controller="Shop" asp-action="IndexDetails" asp-route-prId="@item.Id"><img class="card-img-top" src="@Url.Content(item.ImageUrl)" alt=""></a>
                         <div class="card-body">
                             <div class="card-title"><a class="text-decoration-none" asp-controller="Shop" asp-action="IndexDetails" asp-route-prId="@item.Id"><h3>@item.ProductName</h3></a></div>
-                            <p>@item.Price.ToString("N0") VNĐ <span><i class="fa-solid fa-cart-shopping"></i></span></p>
+                            <p>@item.Price.ToString("N0") VNĐ <span><a asp-controller="Shop" asp-action="IndexDetails" asp-route-prId="@item.Id" class="text-decoration-none"><i class="fa-solid fa-cart-shopping"></i></a></span></p>
                         </div>
                     </div>
                 </div>

@@ -22,12 +22,12 @@ function GetAll() {
                         htmlTopping += `<p class="mb-0 mt-1 topping_price_${index}" style="font-size: 14px !important; opacity: .8;" toppingPrice="${toppingItem.toppingPrice}" toppingId="${toppingItem.id}">${toppingItem.toppingName} (${toppingItem.toppingPrice.toLocaleString('en-US')} VNĐ)</p>`;
                         toppingPrice += toppingItem.toppingPrice;
                     });
-                    html += `<div class="card border shadow-none" id="cart_product_${index}">
+                    html += `<div class="card-body border shadow-none" id="cart_product_${index}">
                     <div >
                         <input type="number" class="productDetailId" value="${item.productDetailsId}"  hidden />
                         <div class="d-flex align-items-start border-bottom pb-3">
                             <div class="col-sm-4 me-4">
-                                <img src="${item.imageUrl}" alt="" class="col-sm-4 img-fluid rounded">
+                                <img src="${item.imageUrl}" alt="" class="col-sm-6 img-fluid rounded">
                             </div>
                             <div class="col-sm-4 me-4">
                                 <div>

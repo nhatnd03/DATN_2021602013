@@ -149,6 +149,10 @@
       "PackagePath": "staticwebassets\\Images\\Product\\Prosty\\P079\\kem-sorbet.jpg"
     },
     {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Images\\Product\\SinhTo\\P061\\smoothie-dua-hau-chunho-ncare-2-hong-sam-chinh-hang.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\SinhTo\\P061\\smoothie-dua-hau-chunho-ncare-2-hong-sam-chinh-hang.jpg"
+    },
+    {
       "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Images\\Product\\SinhTo\\P062\\sinhtodau.jpg",
       "PackagePath": "staticwebassets\\Images\\Product\\SinhTo\\P062\\sinhtodau.jpg"
     },
@@ -295,6 +299,10 @@
     {
       "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Images\\Product\\TraTraiCay\\TeaTraiCay06\\tra-sen-nong_025153_e616dbace8e24d2f9ad2728cd214072f.webp",
       "PackagePath": "staticwebassets\\Images\\Product\\TraTraiCay\\TeaTraiCay06\\tra-sen-nong_025153_e616dbace8e24d2f9ad2728cd214072f.webp"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Images\\Product\\TraXanh\\P060\\smoothie-cam.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\TraXanh\\P060\\smoothie-cam.jpg"
     },
     {
       "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Images\\Product\\TraXanh\\TeaGreen01\\1732197222_traxanhnong_bc472fd2a2be425299a4e14349773f0d.webp",
@@ -3951,6 +3959,14 @@
     {
       "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\assets\\logo.jpg",
       "PackagePath": "staticwebassets\\assets\\logo.jpg"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\assets\\meo.gif",
+      "PackagePath": "staticwebassets\\assets\\meo.gif"
+    },
+    {
+      "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\assets\\meo1.gif",
+      "PackagePath": "staticwebassets\\assets\\meo1.gif"
     },
     {
       "Id": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\css\\Admin\\product.css",

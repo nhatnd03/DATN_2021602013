@@ -39,7 +39,7 @@
         <!-- navbar -->
         <nav class="navbar navbar-expand-lg navbar-light" id="navbar">
             <div class="container-fluid">
-                <a class="navbar-brand" href="#" id="logo"><img src="~/Images/logo.png" alt="Logo"></a>
+                <a class="navbar-brand" asp-action="Index" asp-controller="Home"  id="logo"><img src="~/Images/logo.png" alt="Logo"></a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
@@ -49,13 +49,13 @@
                             <a class="nav-link active" asp-action="Index" asp-controller="Home">Trang chủ</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#about">Về chúng tôi</a>
+                            <a class="nav-link" asp-action="Index" asp-controller="About" >Về chúng tôi</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" asp-action="Index" asp-controller="Shop">Sản phẩm</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#contact">Liên hệ</a>
+                            <a class="nav-link" asp-action="Index" asp-controller="Contact">Liên hệ</a>
                         </li>
                         <!-- Dropdown for user profile -->
                         <li class="nav-item dropdown">
@@ -107,32 +107,7 @@
 
 
 
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-7">
-                        <div class="heading6">Liên hệ</div>
-
-                        <p>
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo, blanditiis
-                            <br>ipsum dolor sit amet consectetur.
-                        </p>
-
-                        <input class="form-control" type="text" placeholder="Họ và tên" aria-label="default input example"><br>
-                        <input class="form-control" type="email" placeholder="Email" aria-label="default input example"><br>
-                        <input class="form-control" type="number" placeholder="Số điện thoại" aria-label="default input example"><br>
-                        <button id="contact-btn">Gửi tin nhắn</button>
-                    </div>
-                    <div class="col-md-5" style="background:none" id="col">
-                        <h1>Thông tin</h1>
-                        <p><i class="fa-regular fa-envelope"></i> ninhnhat1811@gmail.com</p>
-                        <p><i class="fa-solid fa-phone"></i> +84 382966829</p>
-                        <p><i class="fa-solid fa-building-columns"></i>Mễ Trì Thượng, Nam Từ Liêm, Hà Nội</p>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae, culpa</p>
-                    </div>
-                </div>
-            </div>
-
-        <!-- contact -->
+         
         <!-- footer -->
         <!-- footer -->
         <footer id="footer">
@@ -161,6 +136,7 @@
     <div class="modal fade" id="model_spinner_layout_client" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="model_spinner_layout_client" aria-hidden="true">
         <div class="modal-dialog modal-dialog-centered">
             <img src="~/assets/xosx.gif" id="spinner_layout_client" style="width: 30%; margin: auto" />
+            @* <img src="~/assets/meo1.gif" id="spinner_layout_client" style="width: 30%; margin: auto" /> *@
             @* <img src="~/assets/Vg1.gif" id="spinner_layout_client"  /> *@
         </div>
     </div>

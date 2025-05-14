@@ -899,6 +899,8 @@ wwwroot\assets\images\regis.jpg
 wwwroot\assets\images\showCase.jpg
 wwwroot\assets\images\user.png
 wwwroot\assets\logo.jpg
+wwwroot\assets\meo.gif
+wwwroot\assets\meo1.gif
 wwwroot\assets\Vg1.gif
 wwwroot\assets\XOsX.gif
 wwwroot\css\Admin\product.css
@@ -961,6 +963,7 @@ wwwroot\Images\Product\Prosty\Frosty01\1697441914_phin-gato_304446dce9ec4fe0a552
 wwwroot\Images\Product\Prosty\Frosty02\1697441939_ca-phe-duong-den_684615fd8fce40c2a1f6a03e0555fe62.webp
 wwwroot\Images\Product\Prosty\Frosty03\1697441952_choco-chip_06433e0e342b40d7bc59391be6df4c84.webp
 wwwroot\Images\Product\Prosty\P079\kem-sorbet.jpg
+wwwroot\Images\Product\SinhTo\P061\smoothie-dua-hau-chunho-ncare-2-hong-sam-chinh-hang.jpg
 wwwroot\Images\Product\SinhTo\P062\sinhtodau.jpg
 wwwroot\Images\Product\SinhTo\P063\sintoxoai.jpg
 wwwroot\Images\Product\SinhTo\P064\sinhtobo.jpg
@@ -998,6 +1001,7 @@ wwwroot\Images\Product\TraTraiCay\TeaTraiCay03\1719200101_kimquat_892a8e85be0e4a
 wwwroot\Images\Product\TraTraiCay\TeaTraiCay04\1669736819_tra-dao-cam-sa-da_63defc32ce214da487850604a63ff281.webp
 wwwroot\Images\Product\TraTraiCay\TeaTraiCay05\tra-sen_905594_6f6088347912437a9a0d851bdaa510a6.webp
 wwwroot\Images\Product\TraTraiCay\TeaTraiCay06\tra-sen-nong_025153_e616dbace8e24d2f9ad2728cd214072f.webp
+wwwroot\Images\Product\TraXanh\P060\smoothie-cam.jpg
 wwwroot\Images\Product\TraXanh\TeaGreen01\1732197222_traxanhnong_bc472fd2a2be425299a4e14349773f0d.webp
 wwwroot\Images\Product\TraXanh\TeaGreen02\1726647782_tra-xanh-sua-yen-mach_c070935ed194409e8b6b59e2fc364945.webp
 wwwroot\Images\Product\TraXanh\TeaGreen03\1726647801_tra-xanh-latte-1_09fce3e75ca641b5b9b842b36905732a.webp

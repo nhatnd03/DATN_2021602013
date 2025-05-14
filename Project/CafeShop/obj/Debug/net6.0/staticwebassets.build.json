@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "6+OGpl2iJSS0IFQQo6quXipzxDEBAUw93EsogoFIFjg=",
+  "Hash": "t4K3zuKcxdcGuQv58bLfRLaLYOyj0EumDBolU2WuL5E=",
   "Source": "CafeShop",
   "BasePath": "_content/CafeShop",
   "Mode": "Default",
@@ -18980,6 +18980,48 @@
       "OriginalItemSpec": "wwwroot\\assets\\logo.jpg"
     },
     {
+      "Identity": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\assets\\meo.gif",
+      "SourceId": "CafeShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\",
+      "BasePath": "_content/CafeShop",
+      "RelativePath": "assets/meo#[.{fingerprint}]?.gif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jcuwymw2ip",
+      "Integrity": "XaSiTbZI+8XdLBmLQoEoG6QW2cA8N7ckg/KFc7hjHbM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\meo.gif"
+    },
+    {
+      "Identity": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\assets\\meo1.gif",
+      "SourceId": "CafeShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\",
+      "BasePath": "_content/CafeShop",
+      "RelativePath": "assets/meo1#[.{fingerprint}]?.gif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "acazq7mkvt",
+      "Integrity": "GlXZePLeJMFd3GH4e0EUO5/5ICMH1fx+vn3RtAPUcac=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\meo1.gif"
+    },
+    {
       "Identity": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\assets\\Vg1.gif",
       "SourceId": "CafeShop",
       "SourceType": "Discovered",
@@ -19351,8 +19393,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "dcf3tx1t8s",
-      "Integrity": "k96Cl2DMVcu1cgOqM9CF/iju5IrxU+ANE7E3XMsA4Aw=",
+      "Fingerprint": "altkyo2tx8",
+      "Integrity": "zvQxPiq2jehS6JpAeCFCwsXQslWJlm1+pMSKMhxeS9s=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\style.css"
@@ -20282,6 +20324,27 @@
       "OriginalItemSpec": "wwwroot\\Images\\Product\\Prosty\\P079\\kem-sorbet.jpg"
     },
     {
+      "Identity": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Images\\Product\\SinhTo\\P061\\smoothie-dua-hau-chunho-ncare-2-hong-sam-chinh-hang.jpg",
+      "SourceId": "CafeShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\",
+      "BasePath": "_content/CafeShop",
+      "RelativePath": "Images/Product/SinhTo/P061/smoothie-dua-hau-chunho-ncare-2-hong-sam-chinh-hang#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "oz1ahuzujp",
+      "Integrity": "lMHrIs6QhtMPJsnseXZf3p+ld083Q7mylwJCLgGLuGU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Product\\SinhTo\\P061\\smoothie-dua-hau-chunho-ncare-2-hong-sam-chinh-hang.jpg"
+    },
+    {
       "Identity": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Images\\Product\\SinhTo\\P062\\sinhtodau.jpg",
       "SourceId": "CafeShop",
       "SourceType": "Discovered",
@@ -21059,6 +21122,27 @@
       "OriginalItemSpec": "wwwroot\\Images\\Product\\TraTraiCay\\TeaTraiCay06\\tra-sen-nong_025153_e616dbace8e24d2f9ad2728cd214072f.webp"
     },
     {
+      "Identity": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Images\\Product\\TraXanh\\P060\\smoothie-cam.jpg",
+      "SourceId": "CafeShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\",
+      "BasePath": "_content/CafeShop",
+      "RelativePath": "Images/Product/TraXanh/P060/smoothie-cam#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ak2aqxzoin",
+      "Integrity": "etnzYK5UuYAeRIIYcWlv3nbKX0vbqu0pyWL9g42R9hc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Product\\TraXanh\\P060\\smoothie-cam.jpg"
+    },
+    {
       "Identity": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Images\\Product\\TraXanh\\TeaGreen01\\1732197222_traxanhnong_bc472fd2a2be425299a4e14349773f0d.webp",
       "SourceId": "CafeShop",
       "SourceType": "Discovered",
@@ -21493,8 +21577,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "2imsgyq3z4",
-      "Integrity": "FmdSw3Uo2H64/fQQ49urR9rVT9U2kCAYrZirIvbOTJs=",
+      "Fingerprint": "29ypsxhmcn",
+      "Integrity": "Wjbv50Of0AHbGG4kfCIDQrRGu4dYU7h4A0s2CI/JUak=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\Client\\cart.js"
@@ -98030,6 +98114,170 @@
       ]
     },
     {
+      "Route": "assets/meo.gif",
+      "AssetFile": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\assets\\meo.gif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1318381"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/gif"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XaSiTbZI+8XdLBmLQoEoG6QW2cA8N7ckg/KFc7hjHbM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 11:37:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XaSiTbZI+8XdLBmLQoEoG6QW2cA8N7ckg/KFc7hjHbM="
+        }
+      ]
+    },
+    {
+      "Route": "assets/meo.jcuwymw2ip.gif",
+      "AssetFile": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\assets\\meo.gif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1318381"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/gif"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XaSiTbZI+8XdLBmLQoEoG6QW2cA8N7ckg/KFc7hjHbM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 11:37:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jcuwymw2ip"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/meo.gif"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XaSiTbZI+8XdLBmLQoEoG6QW2cA8N7ckg/KFc7hjHbM="
+        }
+      ]
+    },
+    {
+      "Route": "assets/meo1.acazq7mkvt.gif",
+      "AssetFile": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\assets\\meo1.gif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33963"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/gif"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GlXZePLeJMFd3GH4e0EUO5/5ICMH1fx+vn3RtAPUcac=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 11:58:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "acazq7mkvt"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/meo1.gif"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GlXZePLeJMFd3GH4e0EUO5/5ICMH1fx+vn3RtAPUcac="
+        }
+      ]
+    },
+    {
+      "Route": "assets/meo1.gif",
+      "AssetFile": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\assets\\meo1.gif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33963"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/gif"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GlXZePLeJMFd3GH4e0EUO5/5ICMH1fx+vn3RtAPUcac=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 11:58:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GlXZePLeJMFd3GH4e0EUO5/5ICMH1fx+vn3RtAPUcac="
+        }
+      ]
+    },
+    {
       "Route": "assets/Vg1.70llsmycr4.gif",
       "AssetFile": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\assets\\Vg1.gif",
       "Selectors": [],
@@ -98216,7 +98464,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 13 May 2025 04:17:00 GMT"
+          "Value": "Tue, 13 May 2025 10:34:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -98261,7 +98509,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 13 May 2025 04:17:00 GMT"
+          "Value": "Tue, 13 May 2025 10:34:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -98306,7 +98554,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 13 May 2025 04:17:00 GMT"
+          "Value": "Tue, 13 May 2025 10:34:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -98343,7 +98591,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 13 May 2025 04:17:00 GMT"
+          "Value": "Tue, 13 May 2025 10:34:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -99588,6 +99836,51 @@
       ]
     },
     {
+      "Route": "css/style.altkyo2tx8.css",
+      "AssetFile": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\css\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11737"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zvQxPiq2jehS6JpAeCFCwsXQslWJlm1+pMSKMhxeS9s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 12:14:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "altkyo2tx8"
+        },
+        {
+          "Name": "label",
+          "Value": "css/style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zvQxPiq2jehS6JpAeCFCwsXQslWJlm1+pMSKMhxeS9s="
+        }
+      ]
+    },
+    {
       "Route": "css/style.css",
       "AssetFile": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\css\\style.css",
       "Selectors": [],
@@ -99598,7 +99891,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3264"
+          "Value": "11737"
         },
         {
           "Name": "Content-Type",
@@ -99606,11 +99899,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"k96Cl2DMVcu1cgOqM9CF/iju5IrxU+ANE7E3XMsA4Aw=\""
+          "Value": "\"zvQxPiq2jehS6JpAeCFCwsXQslWJlm1+pMSKMhxeS9s=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 13 May 2025 03:19:18 GMT"
+          "Value": "Wed, 14 May 2025 12:14:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -99620,52 +99913,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-k96Cl2DMVcu1cgOqM9CF/iju5IrxU+ANE7E3XMsA4Aw="
-        }
-      ]
-    },
-    {
-      "Route": "css/style.dcf3tx1t8s.css",
-      "AssetFile": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\css\\style.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3264"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"k96Cl2DMVcu1cgOqM9CF/iju5IrxU+ANE7E3XMsA4Aw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 13 May 2025 03:19:18 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "dcf3tx1t8s"
-        },
-        {
-          "Name": "label",
-          "Value": "css/style.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-k96Cl2DMVcu1cgOqM9CF/iju5IrxU+ANE7E3XMsA4Aw="
+          "Value": "sha256-zvQxPiq2jehS6JpAeCFCwsXQslWJlm1+pMSKMhxeS9s="
         }
       ]
     },
@@ -103278,6 +103526,88 @@
       ]
     },
     {
+      "Route": "Images/Product/SinhTo/P061/smoothie-dua-hau-chunho-ncare-2-hong-sam-chinh-hang.jpg",
+      "AssetFile": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Images\\Product\\SinhTo\\P061\\smoothie-dua-hau-chunho-ncare-2-hong-sam-chinh-hang.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "95208"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lMHrIs6QhtMPJsnseXZf3p+ld083Q7mylwJCLgGLuGU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 11:15:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lMHrIs6QhtMPJsnseXZf3p+ld083Q7mylwJCLgGLuGU="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Product/SinhTo/P061/smoothie-dua-hau-chunho-ncare-2-hong-sam-chinh-hang.oz1ahuzujp.jpg",
+      "AssetFile": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Images\\Product\\SinhTo\\P061\\smoothie-dua-hau-chunho-ncare-2-hong-sam-chinh-hang.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "95208"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lMHrIs6QhtMPJsnseXZf3p+ld083Q7mylwJCLgGLuGU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 11:15:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oz1ahuzujp"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Product/SinhTo/P061/smoothie-dua-hau-chunho-ncare-2-hong-sam-chinh-hang.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lMHrIs6QhtMPJsnseXZf3p+ld083Q7mylwJCLgGLuGU="
+        }
+      ]
+    },
+    {
       "Route": "Images/Product/SinhTo/P062/sinhtodau.jpg",
       "AssetFile": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Images\\Product\\SinhTo\\P062\\sinhtodau.jpg",
       "Selectors": [],
@@ -106312,6 +106642,88 @@
       ]
     },
     {
+      "Route": "Images/Product/TraXanh/P060/smoothie-cam.ak2aqxzoin.jpg",
+      "AssetFile": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Images\\Product\\TraXanh\\P060\\smoothie-cam.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "337714"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"etnzYK5UuYAeRIIYcWlv3nbKX0vbqu0pyWL9g42R9hc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 11:17:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ak2aqxzoin"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Product/TraXanh/P060/smoothie-cam.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-etnzYK5UuYAeRIIYcWlv3nbKX0vbqu0pyWL9g42R9hc="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Product/TraXanh/P060/smoothie-cam.jpg",
+      "AssetFile": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Images\\Product\\TraXanh\\P060\\smoothie-cam.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "337714"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"etnzYK5UuYAeRIIYcWlv3nbKX0vbqu0pyWL9g42R9hc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 11:17:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-etnzYK5UuYAeRIIYcWlv3nbKX0vbqu0pyWL9g42R9hc="
+        }
+      ]
+    },
+    {
       "Route": "Images/Product/TraXanh/TeaGreen01/1732197222_traxanhnong_bc472fd2a2be425299a4e14349773f0d.92tdublpvo.webp",
       "AssetFile": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\Images\\Product\\TraXanh\\TeaGreen01\\1732197222_traxanhnong_bc472fd2a2be425299a4e14349773f0d.webp",
       "Selectors": [],
@@ -107318,7 +107730,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 07 May 2025 15:42:42 GMT"
+          "Value": "Tue, 13 May 2025 11:20:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -107355,7 +107767,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 07 May 2025 15:42:42 GMT"
+          "Value": "Tue, 13 May 2025 11:20:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -107952,7 +108364,7 @@
       ]
     },
     {
-      "Route": "js/Client/cart.2imsgyq3z4.js",
+      "Route": "js/Client/cart.29ypsxhmcn.js",
       "AssetFile": "C:\\Hoc\\DATN\\NinhDuyNhat_2021602013_DATN\\Project\\CafeShop\\wwwroot\\js\\Client\\cart.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -107962,7 +108374,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "10518"
+          "Value": "10523"
         },
         {
           "Name": "Content-Type",
@@ -107970,11 +108382,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"FmdSw3Uo2H64/fQQ49urR9rVT9U2kCAYrZirIvbOTJs=\""
+          "Value": "\"Wjbv50Of0AHbGG4kfCIDQrRGu4dYU7h4A0s2CI/JUak=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 13 May 2025 07:25:37 GMT"
+          "Value": "Wed, 14 May 2025 12:06:46 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -107984,7 +108396,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "2imsgyq3z4"
+          "Value": "29ypsxhmcn"
         },
         {
           "Name": "label",
@@ -107992,7 +108404,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-FmdSw3Uo2H64/fQQ49urR9rVT9U2kCAYrZirIvbOTJs="
+          "Value": "sha256-Wjbv50Of0AHbGG4kfCIDQrRGu4dYU7h4A0s2CI/JUak="
         }
       ]
     },
@@ -108007,7 +108419,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "10518"
+          "Value": "10523"
         },
         {
           "Name": "Content-Type",
@@ -108015,11 +108427,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"FmdSw3Uo2H64/fQQ49urR9rVT9U2kCAYrZirIvbOTJs=\""
+          "Value": "\"Wjbv50Of0AHbGG4kfCIDQrRGu4dYU7h4A0s2CI/JUak=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 13 May 2025 07:25:37 GMT"
+          "Value": "Wed, 14 May 2025 12:06:46 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -108029,7 +108441,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-FmdSw3Uo2H64/fQQ49urR9rVT9U2kCAYrZirIvbOTJs="
+          "Value": "sha256-Wjbv50Of0AHbGG4kfCIDQrRGu4dYU7h4A0s2CI/JUak="
         }
       ]
     },
